@@ -3,7 +3,7 @@
 Summary:	A library for parsing TextMate bundles
 Name:		rubygem-%{oname}
 Version:	0.10.1
-Release:	%mkrel 1
+Release:	2
 License:	MIT
 Group:		Development/Ruby
 URL:		https://%{oname}.rubyforge.org/
